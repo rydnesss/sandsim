@@ -1,5 +1,3 @@
-*Particle Simulation*
-
 #**ABOUT**:
 
 This is a simple sand simulation game which has five particles: sand, water, wood, smoke, fire.
