@@ -11,4 +11,6 @@ To increase or decrease particle size, use the upwards and downwards arrow keys.
 To place particles, hold the left mouse button.
 To delete particles, hold the right mouse button.
 
+______________________________________________________________________________________
 
+Made with Love2D
